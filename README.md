@@ -1,2 +1,2 @@
 # writing
-Books, tutorials and other long piecese
+Books, tutorials and other long pieces
